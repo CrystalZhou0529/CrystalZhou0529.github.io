@@ -8,5 +8,47 @@
 }
 
 .main {
-  margin: 2rem 5rem;
+  margin: 2rem 7rem;
+}
+
+#carouselExampleControls {
+  height: 30rem;
+  width: 45rem;
+}
+
+ul {
+  padding-left: 10px;
+}
+li {
+  list-style-type: none;
+}
+
+#coop1_info {
+  font-family: "Architects Daughter", sans-serif;
+  font-size: 40px;
+  padding: 0 3rem;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.subtitle {
+  font-family: "Architects Daughter", sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+
+.intro-row {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 0 0 8rem 0;
+  font-family: "Source Code Pro", sans-serif;
+  font-weight: 800;
+  font-size: 20px;
+}
+
+.intro-icon {
+  color: #2c698d;
+  font-size: 100px;
 }
