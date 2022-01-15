@@ -1,0 +1,12 @@
+.header {
+  height: 35rem;
+  color: #2c698d;
+  text-align: center;
+  background-image: url("../img/header.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.main {
+  margin: 2rem 5rem;
+}
